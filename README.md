@@ -6,7 +6,7 @@ Welcome to the Smart Irrigation System project! This repository contains the cod
 Complete Report of this project : https://drive.google.com/file/d/1sqiVt4n40g6_vmeh06R-Bm4rwvRZe_ns/view?usp=sharing
 
 **NOTE**: This Repository contains two different project sources (both are nearly same)
-          1. Smart Irrigation System using Blynk IOT (Shown in Demo Video and aboves report)
+          \n1. Smart Irrigation System using Blynk IOT (Shown in Demo Video and aboves report)
           2. Garden System Project (Contains following information)
 
 **Project Overview :**
