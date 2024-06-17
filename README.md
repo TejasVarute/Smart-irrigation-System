@@ -5,6 +5,10 @@ Welcome to the Smart Irrigation System project! This repository contains the cod
 
 Complete Report of this project : https://drive.google.com/file/d/1sqiVt4n40g6_vmeh06R-Bm4rwvRZe_ns/view?usp=sharing
 
+**NOTE**: This Repository contains two different project sources (both are nearly same)
+          1. Smart Irrigation System using Blynk IOT (Shown in Demo Video and aboves report)
+          2. Garden System Project (Contains following information)
+
 **Project Overview :**
 The Smart Irrigation System is designed to automate the process of watering plants by monitoring soil moisture levels and environmental conditions. This project aims to conserve water and ensure that plants receive the right amount of water, enhancing their growth and health.
 
