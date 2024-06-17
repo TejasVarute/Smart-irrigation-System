@@ -3,6 +3,8 @@ This is IoT based project for Monitor plants health and Control control irrigati
 
 Welcome to the Smart Irrigation System project! This repository contains the code and documentation for building a smart irrigation system using NodeMCU, Relay module, DHT11 sensor, Moisture sensor, and an air water valve to control water flow.
 
+Complete Report of this project : https://drive.google.com/file/d/1sqiVt4n40g6_vmeh06R-Bm4rwvRZe_ns/view?usp=sharing
+
 **Project Overview :**
 The Smart Irrigation System is designed to automate the process of watering plants by monitoring soil moisture levels and environmental conditions. This project aims to conserve water and ensure that plants receive the right amount of water, enhancing their growth and health.
 
